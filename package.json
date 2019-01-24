@@ -1,0 +1,15 @@
+{
+  "name": "tutorial-cypress-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/cypress open"
+  },
+  "author": "Anand Bagmar",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "",
+    "@applitools/eyes.cypress": "3.3.12"
+  }
+}
